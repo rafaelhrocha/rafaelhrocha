@@ -1,4 +1,4 @@
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Rafael Rocha</h1>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I am Rafael Rocha</h1>
 
 - 🖥️ I'm currently work at Jabil Brasil as developer
 - 👀 I'm interested in Clean Code and Machine Learn
